@@ -1,6 +1,0 @@
-
-alias Contex.Plot
-alias Contex.PointPlot
-alias Contex.BarChart
-alias Contex.Dataset
-alias Contex.ContinuousLogScale
